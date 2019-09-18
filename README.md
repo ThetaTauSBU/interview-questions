@@ -13,4 +13,4 @@ One file should be the problem description and the second file should be an expl
 # Mock Interview Sessions
 Brothers will be assigned with one another and begin whiteboard mock interviews. One will play the role as interviewer, the other as interviewee. Once the problem is solved, they will switch roles and begin another mock interview. 
 <br>
-**Neos will not have to prepare any questions, but will only be able to act as the interviewee. **
+**Neos will not have to prepare any questions, but will only be able to act as the interviewee.**
