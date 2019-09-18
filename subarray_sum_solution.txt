@@ -1,0 +1,22 @@
+Apply a fast/slow sliding window where if the sum of the window is less than the given sum, then we increment fast.
+We keep on incrementing fast until our window is equivalent to the sum, then we return the values of fast and slow.
+Else if our window is greater than the sum, we must increment slow and substract the value slow was previously at
+from our running sum.
+
+Time: O(n)
+Space: O(1)
+
+def subarray_sum(data, sum):
+    fast = 0 
+    slow = 0
+    running_sum = data[fast]
+    while fast < len(data) and slow < len(data):
+        if running_sum < sum:
+            fast += 1
+            running_sum = running_sum + data[fast]
+        else:
+            if running_sum > sum:
+                running_sum = running_sum - data[slow]
+                slow += 1
+            else:
+                return (slow, fast)
