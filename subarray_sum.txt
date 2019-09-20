@@ -1,4 +1,5 @@
-Find a subarray having given a sum in an array of integers. Output the start and end indeces of the subarray
+Find a subarray having given a sum in an array of integers. Output the start and end indeces of the subarray. 
+Assume only positive integers and 0. Assume there will be no number bigger than the sum in the input array.
 Input: [1, 6, 0, 9, 1, 10]
        sum: 15
 Output: 1, 3
