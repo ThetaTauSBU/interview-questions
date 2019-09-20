@@ -1,0 +1,3 @@
+The subarray sum problem taught me to use the fast/slow sliding window variant. 
+During the interviewer I asked my mock interviewer clarifying questions to grab all assumptions, discussed a brute force,
+then optimized it to get an T = O(n) S = O(1) solution.
