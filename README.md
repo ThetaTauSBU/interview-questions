@@ -19,3 +19,5 @@ Brothers will be assigned with one another and begin whiteboard mock interviews.
 **It is up to the brothers to schedule a time and place for a mock interview with their partner** during the week where a workshop will not be held. In order to maintain accountablity write a 1-3 sentence feedback about the interview experience, what you learned etc.
 <br>
 **Neos will not have to prepare any questions, but will only be able to act as the interviewee.**
+# Neo Instructions
+Clone the repository and open up a new branch with your name as indication that you would like to participate.
