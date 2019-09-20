@@ -2,8 +2,9 @@
 This repository will be used to store a collection of technical interview questions that can be used for mock interview
 sessions.
 **In order for a brother to participate in mock interview sessions they must:**
-* Have an interview problem prepared that they thoroughly understand
+* Have an interview problem prepared that they thoroughly understand (including assumptions)
 * Consistently attend mock interview sessions (do not leave your partner hanging)
+
 Please submit your problem to this repository to ensure no collisions occur.<br> 
 Along with the problem, test cases, edge cases, and corner cases should be submitted. 
 # How to submit your problems and test cases
