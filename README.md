@@ -5,7 +5,8 @@ sessions.
 * Have an interview problem prepared that they thoroughly understand (including assumptions)
 * Consistently attend mock interview sessions (do not leave your partner hanging)
 
-Please submit your problem to this repository to ensure no collisions occur.<br> 
+Please submit your problem to this repository to ensure no collisions occur. Problems may range in any diffculty (including
+system design problems) as long as the interviewer fully understands the problem.<br> 
 Along with the problem, test cases, edge cases, and corner cases should be submitted. 
 # How to submit your problems and test cases
 There be will be a directory created for each mock interview session. 
