@@ -21,4 +21,6 @@ Brothers will be assigned with one another and begin whiteboard mock interviews.
 <br>
 **Neos will not have to prepare any questions, but will only be able to act as the interviewee.**
 # Neo Instructions
-Clone the repository and open up a new branch with your name as indication that you would like to participate.
+Do these two steps as indication that you would like to participate.
+* Clone the repository and open up a new branch with your name.
+* In that branch create a sub directory with your name inside of the directory for the upcoming interview session.
